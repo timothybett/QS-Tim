@@ -5,14 +5,14 @@ I am 22 years old gentleman with great dreams.
 Currently  a third year student  at University of Nairobi persuing Quantity Survey.
 
 
-- 🔭 I’m currently working on Unified National Education Platform, Query Solutions Project and Microsoft Certifications for Educators
--  I'm currently working with Java, Python, Spring Boot, Django Framework, Postgres, Azure AI Foundry, Azure(Cloud Hosting)
+- 🔭 I’m currently working on several objective based websiste Query Solutions Project.
+-  I'm currently working with JavaScript, Python, Spring Boot, Django Framework, Postgres, HTML , CSS
 - 🌱 I’m currently working on REST API using Spring Boot and Django Rest Framework 
-- 👯 I’m looking to collaborate and teach on the different Cybersecurity and Software Engineering projects
-- 🤔 I’m looking for help with Software Engineering and Cyber Security
+- 👯 I’m looking to collaborate and  be of nenefit to any project which aims at  providing  services to ythe society at large.
+- 🤔 I’m looking for help with  , Web Development Software Engineering and Quantity Survey
 - 💬 Ask me about Software Engineering and Cyber Security
-- 📫 How to reach me:  bostoneochieng@gmail.com
-- ⚡ Fun fact: Reading, Watching Documentaries and Movies
+- 📫 How to reach me:  tbett1313@gmail.com
+- ⚡ Fun fact: Reading ,playing video games, Watching Documentaries and Movies 
 
 
 ![](https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif)
@@ -38,11 +38,11 @@ Currently  a third year student  at University of Nairobi persuing Quantity Surv
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BOSTONE069&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BOSTONE069&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=timothybett&show_icons=true) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=timothykipngenobett&theme=blue-green)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=BOSTONE069)
+![Profile View Counter](https://komarev.com/ghpvc/?username=timothykipngenobett)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/BOSTONE069.svg)](https://user-badge.committers.top/kenya/BOSTONE069)
+[![committers.top badge](https://user-badge.committers.top/kenya/timothykipngenobett.svg)](https://user-badge.committers.top/kenya/timothykipngenobett)
